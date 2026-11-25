@@ -1,1 +1,1 @@
-# data-mining-naive-bayes
+# data-mining-
